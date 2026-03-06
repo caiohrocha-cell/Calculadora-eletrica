@@ -1,11 +1,12 @@
 kwh();
 function kwh(){
 let potencia = parseFloat(prompt("Digite a potencia do kwh"));
+let taXa = parseFloat(prompt("Digite a taxa desejada"));
 
 let usoDiario = parseFloat(prompt("Digite quantas horas você usa por dia"));
 let kwh = usoDiario * potencia / 1000;
 
-let precoPordia = kwh * 0.90
+let precoPordia = kwh * taXa
 
 console.log ("preço por dia" + precoPordia);
 
