@@ -1,1 +1,10 @@
-let 
+let potencia1 = parseFloat(prompt("Ω"))
+let potencia2 = parseFloat(prompt("v"))
+let potencia3 = parseFloat(prompt("G"))
+let potencia4 = parseFloat(prompt("M"))
+let potencia5 = parseFloat(prompt("k"))
+let potencia6 = parseFloat(prompt(""))
+let potenci7 = parseFloat(prompt("m"))
+let potencia8 = parseFloat(prompt("μ"))
+let potencia9 = parsefloat(prompt("n"))
+let potencia10 = parsefloat(prompt("p"))

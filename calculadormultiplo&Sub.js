@@ -9,3 +9,4 @@ let conversAo = parseFloat(prompt("Tipo de conversão desejada:"));
 let (a * 0.001)
 
 }
+console.log("ampere" + conversAo);
